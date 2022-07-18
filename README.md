@@ -1,1 +1,1 @@
-# button_styling
+Button styling exercise using HTML and CSS
